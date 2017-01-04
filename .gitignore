@@ -10,14 +10,11 @@
 *.iml
 bin
 build
-target
+target/
 .springBeans
 tmp*
 initializer-service/spring
 grapes
-spring.zip
 repository/
 .idea
 *.iml
-rebel.xml
-out/
